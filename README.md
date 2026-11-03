@@ -121,7 +121,7 @@ churn-prediction/
 ## 🚀 Run it yourself
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/AbdulRehmanA1/customer-churn-prediction.git
 cd churn-prediction
 pip install -r requirements.txt
 jupyter notebook Customer_Churn_Prediction.ipynb
